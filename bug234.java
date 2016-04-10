@@ -1,1 +1,1 @@
-More to be fixed
+Need to fix product bug as well.
