@@ -1,2 +1,3 @@
 EE JAVA
-New Method() added
+New Method(String product) modified
+oneMethod() added
