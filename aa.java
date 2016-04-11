@@ -3,3 +3,4 @@ Deleted Method
 Stream Handler Added
 Added File Handler method
 DB Handler
+More methods added
